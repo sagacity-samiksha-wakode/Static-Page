@@ -1,0 +1,164 @@
+
+
+
+body {
+  background-color: #f2f3f4;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  color: #8d929f;
+}
+h1,
+h2,
+h3,
+h4,
+h4,
+h5,
+h6 {
+  color: #000;
+}
+.td-color {
+  color: #8d929f;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.card {
+  border-radius: 20px;
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+  border-radius: 8px;
+  padding: 13px;
+}
+
+li:hover {
+  background-color: #00b4ec;
+  color: white;
+  border: 2px solid;
+  border-radius: 20px;
+}
+
+.sidebar {
+  height: 95vh;
+}
+.sidebarclose {
+  float: right;
+}
+.sidebarheading {
+  color: #00b4ec;
+  text-align: center;
+  font-size: large;
+}
+.sidebarcard {
+  background-color: #f8f9fa;
+  border-radius: 20px;
+}
+
+.sidebarcircle {
+  background-color: #eeeeff;
+  color: #00b4ec;
+  border-radius: 80px;
+}
+
+.text-align-center {
+  text-align: center;
+}
+.text-align-right {
+  text-align: right;
+}
+.text-align-left {
+  text-align: left;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+.topcard {
+  border-radius: 0 0 0 50px;
+}
+
+.tab-box {
+  z-index: 5;
+  margin-bottom: -35px;
+}
+
+.card1 {
+  background-color: #00b4ec;
+  border-radius: 20px;
+}
+.card2 {
+  background-color: #4c52fa;
+  border-radius: 20px;
+}
+.card3 {
+  background-color: #00d09d;
+  border-radius: 20px;
+}
+
+.card1-text-color {
+  color: #00b4ec;
+}
+.card2-text-color {
+  color: #4c52fa;
+}
+.card3-text-color {
+  color: #00d09d;
+}
+
+.text-color-white {
+  color: #ffff;
+}
+
+.text-color-blue {
+  color: #00b4ec;
+}
+
+.searchbox {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  padding: 2px;
+  background: #fff;
+  text-align: center;
+}
+
+.circle-table {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  padding: 2px;
+  background: #00b4ec;
+  text-align: center;
+}
+.table-highlight {
+  color: white;
+  text-align: center;
+  border-radius: 6px;
+}
+
+.bg-color1 {
+  background-color: #4c52fa;
+}
+
+.bg-color2 {
+  background-color: #52be80;
+}
+
+.bg-color3 {
+  background-color: #929292;
+}
